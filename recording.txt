@@ -1,0 +1,1720 @@
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.755s)
+delay is:5us,totalRx is:1636560,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.569s)
+delay is:5us,totalRx is:1805000,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.470s)
+delay is:5us,totalRx is:1841280,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.643s)
+delay is:5us,totalRx is:1849040,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.171s)
+delay is:5us,totalRx is:1886320,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.103s)
+delay is:5us,totalRx is:1899040,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.022s)
+delay is:5us,totalRx is:1905120,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.676s)
+delay is:5us,totalRx is:1911600,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.660s)
+delay is:5us,totalRx is:1916340,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.805s)
+delay is:5us,totalRx is:1918200,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.761s)
+delay is:5us,totalRx is:1921040,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.763s)
+delay is:5us,totalRx is:1923400,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.789s)
+delay is:5us,totalRx is:1923760,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+delay is:5us,totalRx is:1925120,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.771s)
+delay is:5us,totalRx is:1924560,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.855s)
+delay is:5us,totalRx is:1926720,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.634s)
+delay is:5us,totalRx is:1929440,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.796s)
+delay is:5us,totalRx is:1796340,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.772s)
+delay is:5us,totalRx is:1948920,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:5us,totalRx is:1948800,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.854s)
+delay is:5us,totalRx is:1942240,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.805s)
+delay is:5us,totalRx is:1308160,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.773s)
+delay is:5us,totalRx is:13068360,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.222s)
+delay is:5us,totalRx is:14410360,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.651s)
+delay is:5us,totalRx is:14695680,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.755s)
+delay is:5us,totalRx is:14873520,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.822s)
+delay is:5us,totalRx is:15071580,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.720s)
+delay is:5us,totalRx is:15187040,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.517s)
+delay is:5us,totalRx is:15260560,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.183s)
+delay is:5us,totalRx is:15301440,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:5us,totalRx is:15350400,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.665s)
+delay is:5us,totalRx is:15398040,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.802s)
+delay is:5us,totalRx is:15415680,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.827s)
+delay is:5us,totalRx is:15449140,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.795s)
+delay is:5us,totalRx is:15473120,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.717s)
+delay is:5us,totalRx is:15494960,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.799s)
+delay is:5us,totalRx is:15519240,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.794s)
+delay is:5us,totalRx is:15560940,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.743s)
+delay is:5us,totalRx is:15584320,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.507s)
+delay is:5us,totalRx is:15621060,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.505s)
+delay is:5us,totalRx is:15639040,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.003s)
+delay is:5us,totalRx is:15639120,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.211s)
+delay is:5us,totalRx is:15657320,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.851s)
+delay is:5us,totalRx is:15671040,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.655s)
+delay is:5us,totalRx is:84253680,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.745s)
+delay is:5us,totalRx is:73752680,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.751s)
+delay is:5us,totalRx is:64226880,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.864s)
+delay is:5us,totalRx is:77592400,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.103s)
+delay is:5us,totalRx is:70004080,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.762s)
+delay is:5us,totalRx is:70744960,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.052s)
+delay is:5us,totalRx is:118727000,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+delay is:5us,totalRx is:119249280,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.733s)
+delay is:5us,totalRx is:119792160,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.539s)
+delay is:5us,totalRx is:120255960,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.653s)
+delay is:5us,totalRx is:120525280,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.505s)
+delay is:5us,totalRx is:120874280,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.782s)
+delay is:5us,totalRx is:121013500,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.812s)
+delay is:5us,totalRx is:121252480,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.108s)
+delay is:5us,totalRx is:121374000,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.632s)
+delay is:5us,totalRx is:121642040,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.772s)
+delay is:5us,totalRx is:121807680,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.026s)
+delay is:5us,totalRx is:122080140,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.808s)
+delay is:5us,totalRx is:122245560,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.775s)
+delay is:5us,totalRx is:122600400,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.700s)
+delay is:5us,totalRx is:122790960,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.028s)
+delay is:5us,totalRx is:122778880,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.795s)
+delay is:2ms,totalRx is:196205400,mtu is:400,mss is360,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.775s)
+delay is:2ms,totalRx is:388222440,mtu is:800,mss is760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+delay is:2ms,totalRx is:466842240,mtu is:1000,mss is960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.527s)
+delay is:2ms,totalRx is:517513120,mtu is:1200,mss is1160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.790s)
+delay is:2ms,totalRx is:599890640,mtu is:1500,mss is1460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.795s)
+delay is:2ms,totalRx is:644693280,mtu is:1800,mss is1760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.736s)
+delay is:2ms,totalRx is:667689680,mtu is:2000,mss is1960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.060s)
+delay is:2ms,totalRx is:684030960,mtu is:2200,mss is2160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.763s)
+delay is:2ms,totalRx is:709102380,mtu is:2500,mss is2460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+delay is:2ms,totalRx is:723724440,mtu is:2800,mss is2760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.769s)
+delay is:2ms,totalRx is:735151520,mtu is:3000,mss is2960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.662s)
+delay is:2ms,totalRx is:746377000,mtu is:3300,mss is3260,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.786s)
+delay is:2ms,totalRx is:743564380,mtu is:3500,mss is3460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.260s)
+delay is:2ms,totalRx is:751827040,mtu is:3800,mss is3760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.805s)
+delay is:2ms,totalRx is:756732240,mtu is:4000,mss is3960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:2ms,totalRx is:759970620,mtu is:4500,mss is4460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.760s)
+delay is:2ms,totalRx is:767098720,mtu is:5000,mss is4960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.084s)
+delay is:2ms,totalRx is:772377060,mtu is:5500,mss is5460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.822s)
+delay is:2ms,totalRx is:773667600,mtu is:6000,mss is5960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.824s)
+delay is:2ms,totalRx is:776074800,mtu is:7000,mss is6960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.722s)
+delay is:2ms,totalRx is:776800480,mtu is:8000,mss is7960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.160s)
+delay is:2ms,totalRx is:780720640,mtu is:9000,mss is8960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.109s)
+delay is:2ms,totalRx is:212585400,mtu is:400,mss is360,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.553s)
+delay is:2ms,totalRx is:440040000,mtu is:800,mss is760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.821s)
+delay is:2ms,totalRx is:557910720,mtu is:1000,mss is960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.084s)
+delay is:2ms,totalRx is:672361520,mtu is:1200,mss is1160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.830s)
+delay is:2ms,totalRx is:836020820,mtu is:1500,mss is1460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.828s)
+delay is:2ms,totalRx is:1010062240,mtu is:1800,mss is1760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.790s)
+delay is:2ms,totalRx is:1114744120,mtu is:2000,mss is1960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.196s)
+delay is:2ms,totalRx is:1223933760,mtu is:2200,mss is2160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+delay is:2ms,totalRx is:1388059920,mtu is:2500,mss is2460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.736s)
+delay is:2ms,totalRx is:1535854440,mtu is:2800,mss is2760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.768s)
+delay is:2ms,totalRx is:1658209760,mtu is:3000,mss is2960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.617s)
+delay is:2ms,totalRx is:1795819900,mtu is:3300,mss is3260,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.760s)
+delay is:2ms,totalRx is:1930334000,mtu is:3500,mss is3460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.739s)
+delay is:2ms,totalRx is:2052561440,mtu is:3800,mss is3760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.773s)
+delay is:2ms,totalRx is:2147539680,mtu is:4000,mss is3960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.785s)
+delay is:2ms,totalRx is:2425579920,mtu is:4500,mss is4460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.708s)
+delay is:2ms,totalRx is:2661139200,mtu is:5000,mss is4960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.155s)
+delay is:2ms,totalRx is:2854957560,mtu is:5500,mss is5460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.730s)
+delay is:2ms,totalRx is:3125686240,mtu is:6000,mss is5960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.770s)
+delay is:2ms,totalRx is:3548068800,mtu is:7000,mss is6960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+delay is:2ms,totalRx is:3932550440,mtu is:8000,mss is7960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.772s)
+delay is:2ms,totalRx is:4170987520,mtu is:9000,mss is8960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.799s)
+delay is:2ms,totalRx is:210903120,mtu is:400,mss is360,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.749s)
+delay is:2ms,totalRx is:447868760,mtu is:800,mss is760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.721s)
+delay is:2ms,totalRx is:564368640,mtu is:1000,mss is960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.810s)
+delay is:2ms,totalRx is:683434880,mtu is:1200,mss is1160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.638s)
+delay is:2ms,totalRx is:859640700,mtu is:1500,mss is1460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.791s)
+delay is:2ms,totalRx is:1052423680,mtu is:1800,mss is1760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.846s)
+delay is:2ms,totalRx is:1169461440,mtu is:2000,mss is1960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.737s)
+delay is:2ms,totalRx is:1272561840,mtu is:2200,mss is2160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.720s)
+delay is:2ms,totalRx is:1459658220,mtu is:2500,mss is2460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.753s)
+delay is:2ms,totalRx is:1611028560,mtu is:2800,mss is2760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.795s)
+delay is:2ms,totalRx is:1741604800,mtu is:3000,mss is2960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.789s)
+delay is:2ms,totalRx is:1913580880,mtu is:3300,mss is3260,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.552s)
+delay is:2ms,totalRx is:2021515380,mtu is:3500,mss is3460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.785s)
+delay is:2ms,totalRx is:2195385040,mtu is:3800,mss is3760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.752s)
+delay is:2ms,totalRx is:2331192600,mtu is:4000,mss is3960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.517s)
+delay is:2ms,totalRx is:2624683240,mtu is:4500,mss is4460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.749s)
+delay is:2ms,totalRx is:2907423040,mtu is:5000,mss is4960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:2ms,totalRx is:3187105740,mtu is:5500,mss is5460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.757s)
+delay is:2ms,totalRx is:3492565960,mtu is:6000,mss is5960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.784s)
+delay is:2ms,totalRx is:4076381520,mtu is:7000,mss is6960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.783s)
+delay is:2ms,totalRx is:4633834400,mtu is:8000,mss is7960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.739s)
+delay is:2ms,totalRx is:5136517120,mtu is:9000,mss is8960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.501s)
+delay is:50ms,totalRx is:214497720,mtu is:400,mss is360,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:50ms,totalRx is:458055800,mtu is:800,mss is760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.856s)
+delay is:50ms,totalRx is:572111040,mtu is:1000,mss is960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.497s)
+delay is:50ms,totalRx is:687441520,mtu is:1200,mss is1160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.845s)
+delay is:50ms,totalRx is:868321860,mtu is:1500,mss is1460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.739s)
+delay is:50ms,totalRx is:1058062720,mtu is:1800,mss is1760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.751s)
+delay is:50ms,totalRx is:1159142040,mtu is:2000,mss is1960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.936s)
+delay is:50ms,totalRx is:1279730880,mtu is:2200,mss is2160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.852s)
+delay is:50ms,totalRx is:1459171140,mtu is:2500,mss is2460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.632s)
+delay is:50ms,totalRx is:1648042920,mtu is:2800,mss is2760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.794s)
+delay is:50ms,totalRx is:1748119760,mtu is:3000,mss is2960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.715s)
+delay is:50ms,totalRx is:1931471760,mtu is:3300,mss is3260,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.651s)
+delay is:50ms,totalRx is:2030514840,mtu is:3500,mss is3460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.824s)
+delay is:50ms,totalRx is:2217467520,mtu is:3800,mss is3760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.789s)
+delay is:50ms,totalRx is:2338102800,mtu is:4000,mss is3960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.657s)
+delay is:50ms,totalRx is:2626899860,mtu is:4500,mss is4460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.770s)
+delay is:50ms,totalRx is:2905969760,mtu is:5000,mss is4960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.178s)
+delay is:50ms,totalRx is:3181214400,mtu is:5500,mss is5460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.767s)
+delay is:50ms,totalRx is:3456990720,mtu is:6000,mss is5960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+delay is:50ms,totalRx is:4026186000,mtu is:7000,mss is6960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.796s)
+delay is:50ms,totalRx is:4522091920,mtu is:8000,mss is7960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.825s)
+delay is:50ms,totalRx is:5065984000,mtu is:9000,mss is8960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.766s)
+delay is:50ms,totalRx is:216581040,mtu is:400,mss is360,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.795s)
+delay is:50ms,totalRx is:452410520,mtu is:800,mss is760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.508s)
+delay is:50ms,totalRx is:575228160,mtu is:1000,mss is960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.781s)
+delay is:50ms,totalRx is:697962720,mtu is:1200,mss is1160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.840s)
+delay is:50ms,totalRx is:875613100,mtu is:1500,mss is1460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.776s)
+delay is:50ms,totalRx is:1062696800,mtu is:1800,mss is1760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.602s)
+delay is:50ms,totalRx is:1192971640,mtu is:2000,mss is1960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.711s)
+delay is:50ms,totalRx is:1306270800,mtu is:2200,mss is2160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.700s)
+delay is:50ms,totalRx is:1485175800,mtu is:2500,mss is2460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.824s)
+delay is:50ms,totalRx is:1666206480,mtu is:2800,mss is2760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.811s)
+delay is:50ms,totalRx is:1768904880,mtu is:3000,mss is2960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.649s)
+delay is:50ms,totalRx is:1960759600,mtu is:3300,mss is3260,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.561s)
+delay is:50ms,totalRx is:2082435600,mtu is:3500,mss is3460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.712s)
+delay is:50ms,totalRx is:2267712400,mtu is:3800,mss is3760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.763s)
+delay is:50ms,totalRx is:2393055720,mtu is:4000,mss is3960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.746s)
+delay is:50ms,totalRx is:2680758820,mtu is:4500,mss is4460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.814s)
+delay is:50ms,totalRx is:2985042080,mtu is:5000,mss is4960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.713s)
+delay is:50ms,totalRx is:3271768500,mtu is:5500,mss is5460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.512s)
+delay is:50ms,totalRx is:3580338880,mtu is:6000,mss is5960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.139s)
+delay is:50ms,totalRx is:4211308080,mtu is:7000,mss is6960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.735s)
+delay is:50ms,totalRx is:4732243880,mtu is:8000,mss is7960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.771s)
+delay is:50ms,totalRx is:5347991040,mtu is:9000,mss is8960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.789s)
+delay is:50ms,totalRx is:216666720,mtu is:400,mss is360,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.747s)
+delay is:50ms,totalRx is:452777600,mtu is:800,mss is760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.788s)
+delay is:50ms,totalRx is:575553600,mtu is:1000,mss is960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.808s)
+delay is:50ms,totalRx is:698401200,mtu is:1200,mss is1160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.518s)
+delay is:50ms,totalRx is:876858480,mtu is:1500,mss is1460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.836s)
+delay is:50ms,totalRx is:1064421600,mtu is:1800,mss is1760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.755s)
+delay is:50ms,totalRx is:1177305360,mtu is:2000,mss is1960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.769s)
+delay is:50ms,totalRx is:1308661920,mtu is:2200,mss is2160,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.805s)
+delay is:50ms,totalRx is:1477025820,mtu is:2500,mss is2460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.499s)
+delay is:50ms,totalRx is:1663120800,mtu is:2800,mss is2760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.969s)
+delay is:50ms,totalRx is:1795009120,mtu is:3000,mss is2960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.248s)
+delay is:50ms,totalRx is:1982901520,mtu is:3300,mss is3260,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.827s)
+delay is:50ms,totalRx is:2084521980,mtu is:3500,mss is3460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.668s)
+delay is:50ms,totalRx is:2279635360,mtu is:3800,mss is3760,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.751s)
+delay is:50ms,totalRx is:2377639440,mtu is:4000,mss is3960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.020s)
+delay is:50ms,totalRx is:2671415120,mtu is:4500,mss is4460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.680s)
+delay is:50ms,totalRx is:2973192640,mtu is:5000,mss is4960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.827s)
+delay is:50ms,totalRx is:3293832360,mtu is:5500,mss is5460,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.797s)
+delay is:50ms,totalRx is:3601449200,mtu is:6000,mss is5960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.746s)
+delay is:50ms,totalRx is:4189655520,mtu is:7000,mss is6960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.727s)
+delay is:50ms,totalRx is:4810649880,mtu is:8000,mss is7960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.767s)
+delay is:50ms,totalRx is:5414563840,mtu is:9000,mss is8960,endtime is:10000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.104s)
+delay is:5us,totalRx is:1643040,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.798s)
+delay is:5us,totalRx is:1117960,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.645s)
+delay is:5us,totalRx is:1838400,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.773s)
+delay is:5us,totalRx is:1854840,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.732s)
+delay is:5us,totalRx is:1870260,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.807s)
+delay is:5us,totalRx is:1513600,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.739s)
+delay is:5us,totalRx is:1519000,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.750s)
+delay is:5us,totalRx is:1136160,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.735s)
+delay is:5us,totalRx is:875760,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.780s)
+delay is:5us,totalRx is:1520760,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.790s)
+delay is:5us,totalRx is:1136640,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.739s)
+delay is:5us,totalRx is:352080,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+delay is:5us,totalRx is:346000,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.756s)
+delay is:5us,totalRx is:1131760,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.813s)
+delay is:5us,totalRx is:744480,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.798s)
+delay is:5us,totalRx is:4460,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+delay is:5us,totalRx is:4960,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.841s)
+delay is:5us,totalRx is:5460,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.770s)
+delay is:5us,totalRx is:5960,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.792s)
+delay is:5us,totalRx is:6960,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.773s)
+delay is:5us,totalRx is:7960,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.827s)
+delay is:5us,totalRx is:8960,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.677s)
+delay is:5us,totalRx is:9253440,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.811s)
+delay is:5us,totalRx is:14502320,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.774s)
+delay is:5us,totalRx is:14775360,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.813s)
+delay is:5us,totalRx is:11519960,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.661s)
+delay is:5us,totalRx is:2836780,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.776s)
+delay is:5us,totalRx is:10111200,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.757s)
+delay is:5us,totalRx is:10148880,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.764s)
+delay is:5us,totalRx is:10048320,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.528s)
+delay is:5us,totalRx is:10231140,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:5us,totalRx is:2953200,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.020s)
+delay is:5us,totalRx is:3250080,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.990s)
+delay is:5us,totalRx is:2904660,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.238s)
+delay is:5us,totalRx is:3242020,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.620s)
+delay is:5us,totalRx is:165440,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.641s)
+delay is:5us,totalRx is:510840,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.769s)
+delay is:5us,totalRx is:4460,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.810s)
+delay is:5us,totalRx is:4960,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.825s)
+delay is:5us,totalRx is:5460,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.801s)
+delay is:5us,totalRx is:5960,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.808s)
+delay is:5us,totalRx is:6960,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.817s)
+delay is:5us,totalRx is:7960,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.791s)
+delay is:5us,totalRx is:8960,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.754s)
+delay is:5us,totalRx is:459720,mtu is:400,mss is360,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.518s)
+delay is:5us,totalRx is:65117560,mtu is:800,mss is760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.662s)
+delay is:5us,totalRx is:19482240,mtu is:1000,mss is960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.771s)
+delay is:5us,totalRx is:23691840,mtu is:1200,mss is1160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.757s)
+delay is:5us,totalRx is:74776820,mtu is:1500,mss is1460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.886s)
+delay is:5us,totalRx is:68636480,mtu is:1800,mss is1760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.677s)
+delay is:5us,totalRx is:3514280,mtu is:2000,mss is1960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.578s)
+delay is:5us,totalRx is:15930000,mtu is:2200,mss is2160,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+delay is:5us,totalRx is:77315340,mtu is:2500,mss is2460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.176s)
+delay is:5us,totalRx is:26921040,mtu is:2800,mss is2760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.758s)
+delay is:5us,totalRx is:11869600,mtu is:3000,mss is2960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.791s)
+delay is:5us,totalRx is:26780900,mtu is:3300,mss is3260,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.060s)
+delay is:5us,totalRx is:26531280,mtu is:3500,mss is3460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.793s)
+delay is:5us,totalRx is:853520,mtu is:3800,mss is3760,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.783s)
+delay is:5us,totalRx is:4177800,mtu is:4000,mss is3960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.785s)
+delay is:5us,totalRx is:4460,mtu is:4500,mss is4460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.804s)
+delay is:5us,totalRx is:4960,mtu is:5000,mss is4960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.753s)
+delay is:5us,totalRx is:5460,mtu is:5500,mss is5460,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.808s)
+delay is:5us,totalRx is:5960,mtu is:6000,mss is5960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.747s)
+delay is:5us,totalRx is:6960,mtu is:7000,mss is6960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.812s)
+delay is:5us,totalRx is:7960,mtu is:8000,mss is7960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.744s)
+delay is:5us,totalRx is:8960,mtu is:9000,mss is8960,endtime is:1
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.788s)
+delay is:2ms,totalRx is:202844520,mtu is:400,mss is360,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.812s)
+delay is:2ms,totalRx is:547940240,mtu is:800,mss is760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.328s)
+delay is:2ms,totalRx is:661261440,mtu is:1000,mss is960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.716s)
+delay is:2ms,totalRx is:715641120,mtu is:1200,mss is1160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.708s)
+delay is:2ms,totalRx is:725497360,mtu is:1500,mss is1460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.810s)
+delay is:2ms,totalRx is:726960960,mtu is:1800,mss is1760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.785s)
+delay is:2ms,totalRx is:646958760,mtu is:2000,mss is1960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.527s)
+delay is:2ms,totalRx is:531336240,mtu is:2200,mss is2160,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.807s)
+delay is:2ms,totalRx is:743121720,mtu is:2500,mss is2460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.109s)
+delay is:2ms,totalRx is:690267720,mtu is:2800,mss is2760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.113s)
+delay is:2ms,totalRx is:755232160,mtu is:3000,mss is2960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.693s)
+delay is:2ms,totalRx is:741848860,mtu is:3300,mss is3260,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.815s)
+delay is:2ms,totalRx is:743574760,mtu is:3500,mss is3460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.675s)
+delay is:2ms,totalRx is:739625840,mtu is:3800,mss is3760,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.323s)
+delay is:2ms,totalRx is:743806800,mtu is:4000,mss is3960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.772s)
+delay is:2ms,totalRx is:4460,mtu is:4500,mss is4460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.776s)
+delay is:2ms,totalRx is:4960,mtu is:5000,mss is4960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.811s)
+delay is:2ms,totalRx is:5460,mtu is:5500,mss is5460,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.758s)
+delay is:2ms,totalRx is:5960,mtu is:6000,mss is5960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.772s)
+delay is:2ms,totalRx is:6960,mtu is:7000,mss is6960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.778s)
+delay is:2ms,totalRx is:7960,mtu is:8000,mss is7960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.817s)
+delay is:2ms,totalRx is:8960,mtu is:9000,mss is8960,endtime is:400
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-bbr+netdevice/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.668s)

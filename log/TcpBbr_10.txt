@@ -1,0 +1,403 @@
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.766s)
+400,8388608
+190
+8000000
+delay is:5us,totalRx is:620280,mtu is:400,mss is360,endtime is:8000000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.834s)
+800,8388608
+381
+15640000
+delay is:5us,totalRx is:13607800,mtu is:800,mss is760,endtime is:15640000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.800s)
+1000,8388608
+476
+19440000
+delay is:5us,totalRx is:19622400,mtu is:1000,mss is960,endtime is:19440000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.751s)
+1200,8388608
+572
+23280000
+delay is:5us,totalRx is:17371000,mtu is:1200,mss is1160,endtime is:23280000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.763s)
+1500,8388608
+715
+29000000
+delay is:5us,totalRx is:9580520,mtu is:1500,mss is1460,endtime is:29000000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.513s)
+1800,8388608
+858
+34720000
+delay is:5us,totalRx is:6659840,mtu is:1800,mss is1760,endtime is:34720000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.179s)
+2000,8388608
+953
+38520000
+delay is:5us,totalRx is:8120280,mtu is:2000,mss is1960,endtime is:38520000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.800s)
+2200,8388608
+1049
+42360000
+delay is:5us,totalRx is:9583920,mtu is:2200,mss is2160,endtime is:42360000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.682s)
+2500,8388608
+1192
+48080000
+delay is:5us,totalRx is:12162240,mtu is:2500,mss is2460,endtime is:48080000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.581s)
+2800,8388608
+1335
+53800000
+delay is:5us,totalRx is:10904760,mtu is:2800,mss is2760,endtime is:53800000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.061s)
+3000,8388608
+1430
+57600000
+delay is:5us,totalRx is:12923360,mtu is:3000,mss is2960,endtime is:57600000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.783s)
+3300,8388608
+1573
+63320000
+delay is:5us,totalRx is:14934060,mtu is:3300,mss is3260,endtime is:63320000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.722s)
+3500,8388608
+1668
+67120000
+delay is:5us,totalRx is:16514580,mtu is:3500,mss is3460,endtime is:67120000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.550s)
+3800,8388608
+1811
+72840000
+delay is:5us,totalRx is:15795760,mtu is:3800,mss is3760,endtime is:72840000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.075s)
+4000,8388608
+1907
+76680000
+delay is:5us,totalRx is:17218080,mtu is:4000,mss is3960,endtime is:76680000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.798s)
+4500,8388608
+2145
+86200000
+delay is:5us,totalRx is:4460,mtu is:4500,mss is4460,endtime is:86200000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.847s)
+5000,8388608
+2384
+95760000
+delay is:5us,totalRx is:4960,mtu is:5000,mss is4960,endtime is:95760000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.809s)
+5500,8388608
+2622
+105280000
+delay is:5us,totalRx is:5460,mtu is:5500,mss is5460,endtime is:105280000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.643s)
+6000,8388608
+2861
+114840000
+delay is:5us,totalRx is:5960,mtu is:6000,mss is5960,endtime is:114840000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.769s)
+7000,8388608
+3337
+133880000
+delay is:5us,totalRx is:6960,mtu is:7000,mss is6960,endtime is:133880000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.812s)
+8000,8388608
+3814
+152960000
+delay is:5us,totalRx is:7960,mtu is:8000,mss is7960,endtime is:152960000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.743s)
+9000,8388608
+4291
+172040000
+delay is:5us,totalRx is:8960,mtu is:9000,mss is8960,endtime is:172040000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.729s)
+400,67108864
+23
+1320000
+delay is:5us,totalRx is:5689800,mtu is:400,mss is360,endtime is:1320000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.556s)
+800,67108864
+47
+2280000
+delay is:5us,totalRx is:18546280,mtu is:800,mss is760,endtime is:2280000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.517s)
+1000,67108864
+59
+2760000
+delay is:5us,totalRx is:20624640,mtu is:1000,mss is960,endtime is:2760000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.661s)
+1200,67108864
+71
+3240000
+delay is:5us,totalRx is:18866240,mtu is:1200,mss is1160,endtime is:3240000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.780s)
+1500,67108864
+89
+3960000
+delay is:5us,totalRx is:15065740,mtu is:1500,mss is1460,endtime is:3960000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.210s)
+1800,67108864
+107
+4680000
+delay is:5us,totalRx is:36963520,mtu is:1800,mss is1760,endtime is:4680000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.050s)
+2000,67108864
+119
+5160000
+delay is:5us,totalRx is:29733200,mtu is:2000,mss is1960,endtime is:5160000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.734s)
+2200,67108864
+131
+5640000
+delay is:5us,totalRx is:44688240,mtu is:2200,mss is2160,endtime is:5640000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.728s)
+2500,67108864
+149
+6360000
+delay is:5us,totalRx is:68050980,mtu is:2500,mss is2460,endtime is:6360000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.776s)
+2800,67108864
+166
+7040000
+delay is:5us,totalRx is:56011440,mtu is:2800,mss is2760,endtime is:7040000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.748s)
+3000,67108864
+178
+7520000
+delay is:5us,totalRx is:64057360,mtu is:3000,mss is2960,endtime is:7520000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.797s)
+3300,67108864
+196
+8240000
+delay is:5us,totalRx is:86070520,mtu is:3300,mss is3260,endtime is:8240000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.673s)
+3500,67108864
+208
+8720000
+delay is:5us,totalRx is:94343820,mtu is:3500,mss is3460,endtime is:8720000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.727s)
+3800,67108864
+226
+9440000
+delay is:5us,totalRx is:109273120,mtu is:3800,mss is3760,endtime is:9440000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.764s)
+4000,67108864
+238
+9920000
+delay is:5us,totalRx is:125017200,mtu is:4000,mss is3960,endtime is:9920000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.773s)
+4500,67108864
+268
+11120000
+delay is:5us,totalRx is:4460,mtu is:4500,mss is4460,endtime is:11120000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.779s)
+5000,67108864
+298
+12320000
+delay is:5us,totalRx is:4960,mtu is:5000,mss is4960,endtime is:12320000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.756s)
+5500,67108864
+327
+13480000
+delay is:5us,totalRx is:5460,mtu is:5500,mss is5460,endtime is:13480000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.574s)
+6000,67108864
+357
+14680000
+delay is:5us,totalRx is:5960,mtu is:6000,mss is5960,endtime is:14680000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.542s)
+7000,67108864
+417
+17080000
+delay is:5us,totalRx is:6960,mtu is:7000,mss is6960,endtime is:17080000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.478s)
+8000,67108864
+476
+19440000
+delay is:5us,totalRx is:7960,mtu is:8000,mss is7960,endtime is:19440000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.472s)
+9000,67108864
+536
+21840000
+delay is:5us,totalRx is:8960,mtu is:9000,mss is8960,endtime is:21840000
+finish
+Waf: Entering directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Waf: Leaving directory `/home/hanfeixue/ns3/ns-3.27-loss-test/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.523s)
+400,536870912
+2
+480000
